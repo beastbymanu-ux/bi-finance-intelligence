@@ -1,0 +1,1598 @@
+{
+  "transactions": [
+    {
+      "date": "2026-03-09",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260309",
+      "amount": 23803.76,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-09",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 4418.84,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-10",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260310",
+      "amount": 12230.72,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-10",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3638.54,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-10",
+      "source": "bank_ops",
+      "description": "Vendor payment",
+      "amount": -2535.85,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-10",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -2406.7,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-11",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260311",
+      "amount": 17392.7,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-11",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3661.42,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-11",
+      "source": "bank_ops",
+      "description": "Cloud infra",
+      "amount": -5494.63,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-11",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -2254.14,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-12",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260312",
+      "amount": 23908.88,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-12",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 6708.11,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-12",
+      "source": "bank_ops",
+      "description": "Office supplies",
+      "amount": -2117.09,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-12",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -1059.44,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-13",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260313",
+      "amount": 8618.56,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-13",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 1927.75,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-13",
+      "source": "bank_ops",
+      "description": "Vendor payment",
+      "amount": -6565.77,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-13",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -3059.53,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-15",
+      "source": "bank_payroll",
+      "description": "Payroll run",
+      "amount": -33189.98,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-16",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260316",
+      "amount": 17851.2,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-16",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 5288.95,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260317",
+      "amount": 19564.25,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 4347.6,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "bank_ops",
+      "description": "Contractor invoice",
+      "amount": -5710.96,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -2678.32,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-18",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260318",
+      "amount": 13859.42,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-18",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3325.89,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-19",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260319",
+      "amount": 16447.16,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-19",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3746.21,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-19",
+      "source": "bank_ops",
+      "description": "SaaS subscriptions",
+      "amount": -5805.05,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-19",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -1840.46,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-20",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260320",
+      "amount": 14103.67,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-20",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 4299.09,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-20",
+      "source": "bank_ops",
+      "description": "Cloud infra",
+      "amount": -2056.75,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-20",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -2561.11,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-23",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260323",
+      "amount": 23937.22,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-23",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 5213.8,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-23",
+      "source": "bank_ops",
+      "description": "Vendor payment",
+      "amount": -4213.77,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-23",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -1915.7,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-24",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260324",
+      "amount": 21659.47,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-24",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 5695.28,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-25",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260325",
+      "amount": 12201.57,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-25",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3792.82,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-26",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260326",
+      "amount": 15548.07,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-26",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 4432.24,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-26",
+      "source": "bank_ops",
+      "description": "Office supplies",
+      "amount": -4941.86,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-26",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -868.88,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-27",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260327",
+      "amount": 22070.53,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-27",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 4534.56,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260330",
+      "amount": 21204.67,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 4827.19,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "bank_ops",
+      "description": "Office supplies",
+      "amount": -5126.63,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -2133.9,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-03-31",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260331",
+      "amount": 16621.02,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-03-31",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3436.36,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-04-01",
+      "source": "erp_revenue",
+      "description": "Invoice batch 20260401",
+      "amount": 14824.78,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-04-01",
+      "source": "stripe",
+      "description": "Stripe daily settlement",
+      "amount": 3820.71,
+      "type": "inflow"
+    },
+    {
+      "date": "2026-04-01",
+      "source": "bank_payroll",
+      "description": "Payroll run",
+      "amount": -33441.94,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-04-01",
+      "source": "bank_ops",
+      "description": "Vendor payment",
+      "amount": -5186.32,
+      "type": "outflow"
+    },
+    {
+      "date": "2026-04-01",
+      "source": "erp_cogs",
+      "description": "COGS allocation",
+      "amount": -2703.04,
+      "type": "outflow"
+    }
+  ],
+  "daily_balances": [
+    {
+      "date": "2025-10-01",
+      "balance": 275839.77
+    },
+    {
+      "date": "2025-10-02",
+      "balance": 299032.05
+    },
+    {
+      "date": "2025-10-03",
+      "balance": 304677.2
+    },
+    {
+      "date": "2025-10-04",
+      "balance": 304677.2
+    },
+    {
+      "date": "2025-10-05",
+      "balance": 304677.2
+    },
+    {
+      "date": "2025-10-06",
+      "balance": 315672.97
+    },
+    {
+      "date": "2025-10-07",
+      "balance": 327395.8
+    },
+    {
+      "date": "2025-10-08",
+      "balance": 344653.03
+    },
+    {
+      "date": "2025-10-09",
+      "balance": 355737.73
+    },
+    {
+      "date": "2025-10-10",
+      "balance": 383409.47
+    },
+    {
+      "date": "2025-10-11",
+      "balance": 383409.47
+    },
+    {
+      "date": "2025-10-12",
+      "balance": 383409.47
+    },
+    {
+      "date": "2025-10-13",
+      "balance": 407463.46
+    },
+    {
+      "date": "2025-10-14",
+      "balance": 412566.36
+    },
+    {
+      "date": "2025-10-15",
+      "balance": 401962.18
+    },
+    {
+      "date": "2025-10-16",
+      "balance": 411726.09
+    },
+    {
+      "date": "2025-10-17",
+      "balance": 426899.71
+    },
+    {
+      "date": "2025-10-18",
+      "balance": 426899.71
+    },
+    {
+      "date": "2025-10-19",
+      "balance": 426899.71
+    },
+    {
+      "date": "2025-10-20",
+      "balance": 456617.92
+    },
+    {
+      "date": "2025-10-21",
+      "balance": 473981.76
+    },
+    {
+      "date": "2025-10-22",
+      "balance": 497424.31
+    },
+    {
+      "date": "2025-10-23",
+      "balance": 514375.94
+    },
+    {
+      "date": "2025-10-24",
+      "balance": 543126.74
+    },
+    {
+      "date": "2025-10-25",
+      "balance": 543126.74
+    },
+    {
+      "date": "2025-10-26",
+      "balance": 543126.74
+    },
+    {
+      "date": "2025-10-27",
+      "balance": 558506.77
+    },
+    {
+      "date": "2025-10-28",
+      "balance": 581655.11
+    },
+    {
+      "date": "2025-10-29",
+      "balance": 592618.22
+    },
+    {
+      "date": "2025-10-30",
+      "balance": 599217.64
+    },
+    {
+      "date": "2025-10-31",
+      "balance": 621410.17
+    },
+    {
+      "date": "2025-11-01",
+      "balance": 588722.86
+    },
+    {
+      "date": "2025-11-02",
+      "balance": 588722.86
+    },
+    {
+      "date": "2025-11-03",
+      "balance": 612846.55
+    },
+    {
+      "date": "2025-11-04",
+      "balance": 628028.35
+    },
+    {
+      "date": "2025-11-05",
+      "balance": 639539.66
+    },
+    {
+      "date": "2025-11-06",
+      "balance": 644731.99
+    },
+    {
+      "date": "2025-11-07",
+      "balance": 667156.84
+    },
+    {
+      "date": "2025-11-08",
+      "balance": 667156.84
+    },
+    {
+      "date": "2025-11-09",
+      "balance": 667156.84
+    },
+    {
+      "date": "2025-11-10",
+      "balance": 680313.58
+    },
+    {
+      "date": "2025-11-11",
+      "balance": 704261.04
+    },
+    {
+      "date": "2025-11-12",
+      "balance": 712591.55
+    },
+    {
+      "date": "2025-11-13",
+      "balance": 723137.01
+    },
+    {
+      "date": "2025-11-14",
+      "balance": 741665.71
+    },
+    {
+      "date": "2025-11-15",
+      "balance": 707637.2
+    },
+    {
+      "date": "2025-11-16",
+      "balance": 707637.2
+    },
+    {
+      "date": "2025-11-17",
+      "balance": 729201.83
+    },
+    {
+      "date": "2025-11-18",
+      "balance": 741070.06
+    },
+    {
+      "date": "2025-11-19",
+      "balance": 770923.93
+    },
+    {
+      "date": "2025-11-20",
+      "balance": 786309.04
+    },
+    {
+      "date": "2025-11-21",
+      "balance": 793301.41
+    },
+    {
+      "date": "2025-11-22",
+      "balance": 793301.41
+    },
+    {
+      "date": "2025-11-23",
+      "balance": 793301.41
+    },
+    {
+      "date": "2025-11-24",
+      "balance": 800347.9
+    },
+    {
+      "date": "2025-11-25",
+      "balance": 807635.92
+    },
+    {
+      "date": "2025-11-26",
+      "balance": 816227.8
+    },
+    {
+      "date": "2025-11-27",
+      "balance": 825236.28
+    },
+    {
+      "date": "2025-11-28",
+      "balance": 848880.73
+    },
+    {
+      "date": "2025-11-29",
+      "balance": 848880.73
+    },
+    {
+      "date": "2025-11-30",
+      "balance": 848880.73
+    },
+    {
+      "date": "2025-12-01",
+      "balance": 821096.26
+    },
+    {
+      "date": "2025-12-02",
+      "balance": 833942.18
+    },
+    {
+      "date": "2025-12-03",
+      "balance": 864000.16
+    },
+    {
+      "date": "2025-12-04",
+      "balance": 882996.26
+    },
+    {
+      "date": "2025-12-05",
+      "balance": 894973.63
+    },
+    {
+      "date": "2025-12-06",
+      "balance": 894973.63
+    },
+    {
+      "date": "2025-12-07",
+      "balance": 894973.63
+    },
+    {
+      "date": "2025-12-08",
+      "balance": 914059.42
+    },
+    {
+      "date": "2025-12-09",
+      "balance": 922668.04
+    },
+    {
+      "date": "2025-12-10",
+      "balance": 944718.37
+    },
+    {
+      "date": "2025-12-11",
+      "balance": 952587.0
+    },
+    {
+      "date": "2025-12-12",
+      "balance": 976702.35
+    },
+    {
+      "date": "2025-12-13",
+      "balance": 976702.35
+    },
+    {
+      "date": "2025-12-14",
+      "balance": 976702.35
+    },
+    {
+      "date": "2025-12-15",
+      "balance": 962307.79
+    },
+    {
+      "date": "2025-12-16",
+      "balance": 975982.87
+    },
+    {
+      "date": "2025-12-17",
+      "balance": 1005378.27
+    },
+    {
+      "date": "2025-12-18",
+      "balance": 1013901.46
+    },
+    {
+      "date": "2025-12-19",
+      "balance": 1032302.83
+    },
+    {
+      "date": "2025-12-20",
+      "balance": 1032302.83
+    },
+    {
+      "date": "2025-12-21",
+      "balance": 1032302.83
+    },
+    {
+      "date": "2025-12-22",
+      "balance": 1061451.21
+    },
+    {
+      "date": "2025-12-23",
+      "balance": 1076923.74
+    },
+    {
+      "date": "2025-12-24",
+      "balance": 1098512.51
+    },
+    {
+      "date": "2025-12-25",
+      "balance": 1116920.64
+    },
+    {
+      "date": "2025-12-26",
+      "balance": 1143280.87
+    },
+    {
+      "date": "2025-12-27",
+      "balance": 1143280.87
+    },
+    {
+      "date": "2025-12-28",
+      "balance": 1143280.87
+    },
+    {
+      "date": "2025-12-29",
+      "balance": 1164457.92
+    },
+    {
+      "date": "2025-12-30",
+      "balance": 1187831.15
+    },
+    {
+      "date": "2025-12-31",
+      "balance": 1201316.68
+    },
+    {
+      "date": "2026-01-01",
+      "balance": 1191463.51
+    },
+    {
+      "date": "2026-01-02",
+      "balance": 1196827.14
+    },
+    {
+      "date": "2026-01-03",
+      "balance": 1196827.14
+    },
+    {
+      "date": "2026-01-04",
+      "balance": 1196827.14
+    },
+    {
+      "date": "2026-01-05",
+      "balance": 1223564.72
+    },
+    {
+      "date": "2026-01-06",
+      "balance": 1237581.17
+    },
+    {
+      "date": "2026-01-07",
+      "balance": 1247255.18
+    },
+    {
+      "date": "2026-01-08",
+      "balance": 1276079.95
+    },
+    {
+      "date": "2026-01-09",
+      "balance": 1293931.53
+    },
+    {
+      "date": "2026-01-10",
+      "balance": 1293931.53
+    },
+    {
+      "date": "2026-01-11",
+      "balance": 1293931.53
+    },
+    {
+      "date": "2026-01-12",
+      "balance": 1315471.1
+    },
+    {
+      "date": "2026-01-13",
+      "balance": 1321125.95
+    },
+    {
+      "date": "2026-01-14",
+      "balance": 1338038.6
+    },
+    {
+      "date": "2026-01-15",
+      "balance": 1329204.5
+    },
+    {
+      "date": "2026-01-16",
+      "balance": 1335453.13
+    },
+    {
+      "date": "2026-01-17",
+      "balance": 1335453.13
+    },
+    {
+      "date": "2026-01-18",
+      "balance": 1335453.13
+    },
+    {
+      "date": "2026-01-19",
+      "balance": 1348623.48
+    },
+    {
+      "date": "2026-01-20",
+      "balance": 1352307.38
+    },
+    {
+      "date": "2026-01-21",
+      "balance": 1364197.86
+    },
+    {
+      "date": "2026-01-22",
+      "balance": 1376210.38
+    },
+    {
+      "date": "2026-01-23",
+      "balance": 1388779.68
+    },
+    {
+      "date": "2026-01-24",
+      "balance": 1388779.68
+    },
+    {
+      "date": "2026-01-25",
+      "balance": 1388779.68
+    },
+    {
+      "date": "2026-01-26",
+      "balance": 1417794.94
+    },
+    {
+      "date": "2026-01-27",
+      "balance": 1438010.94
+    },
+    {
+      "date": "2026-01-28",
+      "balance": 1450964.76
+    },
+    {
+      "date": "2026-01-29",
+      "balance": 1465507.32
+    },
+    {
+      "date": "2026-01-30",
+      "balance": 1489600.93
+    },
+    {
+      "date": "2026-01-31",
+      "balance": 1489600.93
+    },
+    {
+      "date": "2026-02-01",
+      "balance": 1451888.93
+    },
+    {
+      "date": "2026-02-02",
+      "balance": 1463192.33
+    },
+    {
+      "date": "2026-02-03",
+      "balance": 1483903.94
+    },
+    {
+      "date": "2026-02-04",
+      "balance": 1502869.87
+    },
+    {
+      "date": "2026-02-05",
+      "balance": 1527292.69
+    },
+    {
+      "date": "2026-02-06",
+      "balance": 1541421.51
+    },
+    {
+      "date": "2026-02-07",
+      "balance": 1541421.51
+    },
+    {
+      "date": "2026-02-08",
+      "balance": 1541421.51
+    },
+    {
+      "date": "2026-02-09",
+      "balance": 1551431.83
+    },
+    {
+      "date": "2026-02-10",
+      "balance": 1571664.88
+    },
+    {
+      "date": "2026-02-11",
+      "balance": 1595517.8
+    },
+    {
+      "date": "2026-02-12",
+      "balance": 1624070.94
+    },
+    {
+      "date": "2026-02-13",
+      "balance": 1643177.24
+    },
+    {
+      "date": "2026-02-14",
+      "balance": 1643177.24
+    },
+    {
+      "date": "2026-02-15",
+      "balance": 1608049.44
+    },
+    {
+      "date": "2026-02-16",
+      "balance": 1630488.3
+    },
+    {
+      "date": "2026-02-17",
+      "balance": 1646149.09
+    },
+    {
+      "date": "2026-02-18",
+      "balance": 1666543.79
+    },
+    {
+      "date": "2026-02-19",
+      "balance": 1691496.87
+    },
+    {
+      "date": "2026-02-20",
+      "balance": 1706047.25
+    },
+    {
+      "date": "2026-02-21",
+      "balance": 1706047.25
+    },
+    {
+      "date": "2026-02-22",
+      "balance": 1706047.25
+    },
+    {
+      "date": "2026-02-23",
+      "balance": 1733277.5
+    },
+    {
+      "date": "2026-02-24",
+      "balance": 1752622.19
+    },
+    {
+      "date": "2026-02-25",
+      "balance": 1773559.04
+    },
+    {
+      "date": "2026-02-26",
+      "balance": 1802064.31
+    },
+    {
+      "date": "2026-02-27",
+      "balance": 1813471.69
+    },
+    {
+      "date": "2026-02-28",
+      "balance": 1813471.69
+    },
+    {
+      "date": "2026-03-01",
+      "balance": 1775954.44
+    },
+    {
+      "date": "2026-03-02",
+      "balance": 1800786.13
+    },
+    {
+      "date": "2026-03-03",
+      "balance": 1820549.08
+    },
+    {
+      "date": "2026-03-04",
+      "balance": 1831241.25
+    },
+    {
+      "date": "2026-03-05",
+      "balance": 1855853.01
+    },
+    {
+      "date": "2026-03-06",
+      "balance": 1884582.71
+    },
+    {
+      "date": "2026-03-07",
+      "balance": 1884582.71
+    },
+    {
+      "date": "2026-03-08",
+      "balance": 1884582.71
+    },
+    {
+      "date": "2026-03-09",
+      "balance": 1912805.31
+    },
+    {
+      "date": "2026-03-10",
+      "balance": 1923732.02
+    },
+    {
+      "date": "2026-03-11",
+      "balance": 1937037.37
+    },
+    {
+      "date": "2026-03-12",
+      "balance": 1964477.83
+    },
+    {
+      "date": "2026-03-13",
+      "balance": 1965398.84
+    },
+    {
+      "date": "2026-03-14",
+      "balance": 1965398.84
+    },
+    {
+      "date": "2026-03-15",
+      "balance": 1932208.86
+    },
+    {
+      "date": "2026-03-16",
+      "balance": 1955349.01
+    },
+    {
+      "date": "2026-03-17",
+      "balance": 1970871.58
+    },
+    {
+      "date": "2026-03-18",
+      "balance": 1988056.89
+    },
+    {
+      "date": "2026-03-19",
+      "balance": 2000604.75
+    },
+    {
+      "date": "2026-03-20",
+      "balance": 2014389.65
+    },
+    {
+      "date": "2026-03-21",
+      "balance": 2014389.65
+    },
+    {
+      "date": "2026-03-22",
+      "balance": 2014389.65
+    },
+    {
+      "date": "2026-03-23",
+      "balance": 2037411.2
+    },
+    {
+      "date": "2026-03-24",
+      "balance": 2064765.95
+    },
+    {
+      "date": "2026-03-25",
+      "balance": 2080760.34
+    },
+    {
+      "date": "2026-03-26",
+      "balance": 2094929.91
+    },
+    {
+      "date": "2026-03-27",
+      "balance": 2121535.0
+    },
+    {
+      "date": "2026-03-28",
+      "balance": 2121535.0
+    },
+    {
+      "date": "2026-03-29",
+      "balance": 2121535.0
+    },
+    {
+      "date": "2026-03-30",
+      "balance": 2140306.33
+    },
+    {
+      "date": "2026-03-31",
+      "balance": 2160363.71
+    },
+    {
+      "date": "2026-04-01",
+      "balance": 2137677.9
+    }
+  ],
+  "monthly_summary": [
+    {
+      "month": "2025-10",
+      "inflow": 466012.58,
+      "outflow": 132052.41,
+      "net": 333960.17
+    },
+    {
+      "month": "2025-11",
+      "inflow": 372306.38,
+      "outflow": 144835.82,
+      "net": 227470.56
+    },
+    {
+      "month": "2025-12",
+      "inflow": 487425.56,
+      "outflow": 134989.61,
+      "net": 352435.95
+    },
+    {
+      "month": "2026-01",
+      "inflow": 444179.43,
+      "outflow": 155895.18,
+      "net": 288284.25
+    },
+    {
+      "month": "2026-02",
+      "inflow": 466037.49,
+      "outflow": 142166.73,
+      "net": 323870.76
+    },
+    {
+      "month": "2026-03",
+      "inflow": 497778.41,
+      "outflow": 150886.39,
+      "net": 346892.02
+    },
+    {
+      "month": "2026-04",
+      "inflow": 18645.49,
+      "outflow": 41331.3,
+      "net": -22685.81
+    }
+  ],
+  "forecast": [
+    {
+      "date": "2026-04-02",
+      "projected_balance": 2144878.76
+    },
+    {
+      "date": "2026-04-03",
+      "projected_balance": 2152079.61
+    },
+    {
+      "date": "2026-04-04",
+      "projected_balance": 2159280.47
+    },
+    {
+      "date": "2026-04-05",
+      "projected_balance": 2166481.32
+    },
+    {
+      "date": "2026-04-06",
+      "projected_balance": 2173682.18
+    },
+    {
+      "date": "2026-04-07",
+      "projected_balance": 2180883.03
+    },
+    {
+      "date": "2026-04-08",
+      "projected_balance": 2188083.89
+    },
+    {
+      "date": "2026-04-09",
+      "projected_balance": 2195284.74
+    },
+    {
+      "date": "2026-04-10",
+      "projected_balance": 2202485.6
+    },
+    {
+      "date": "2026-04-11",
+      "projected_balance": 2209686.45
+    },
+    {
+      "date": "2026-04-12",
+      "projected_balance": 2216887.31
+    },
+    {
+      "date": "2026-04-13",
+      "projected_balance": 2224088.16
+    },
+    {
+      "date": "2026-04-14",
+      "projected_balance": 2231289.02
+    },
+    {
+      "date": "2026-04-15",
+      "projected_balance": 2238489.87
+    },
+    {
+      "date": "2026-04-16",
+      "projected_balance": 2245690.73
+    },
+    {
+      "date": "2026-04-17",
+      "projected_balance": 2252891.58
+    },
+    {
+      "date": "2026-04-18",
+      "projected_balance": 2260092.44
+    },
+    {
+      "date": "2026-04-19",
+      "projected_balance": 2267293.29
+    },
+    {
+      "date": "2026-04-20",
+      "projected_balance": 2274494.15
+    },
+    {
+      "date": "2026-04-21",
+      "projected_balance": 2281695.0
+    },
+    {
+      "date": "2026-04-22",
+      "projected_balance": 2288895.86
+    },
+    {
+      "date": "2026-04-23",
+      "projected_balance": 2296096.71
+    },
+    {
+      "date": "2026-04-24",
+      "projected_balance": 2303297.57
+    },
+    {
+      "date": "2026-04-25",
+      "projected_balance": 2310498.43
+    },
+    {
+      "date": "2026-04-26",
+      "projected_balance": 2317699.28
+    },
+    {
+      "date": "2026-04-27",
+      "projected_balance": 2324900.14
+    },
+    {
+      "date": "2026-04-28",
+      "projected_balance": 2332100.99
+    },
+    {
+      "date": "2026-04-29",
+      "projected_balance": 2339301.85
+    },
+    {
+      "date": "2026-04-30",
+      "projected_balance": 2346502.7
+    },
+    {
+      "date": "2026-05-01",
+      "projected_balance": 2353703.56
+    },
+    {
+      "date": "2026-05-02",
+      "projected_balance": 2360904.41
+    },
+    {
+      "date": "2026-05-03",
+      "projected_balance": 2368105.27
+    },
+    {
+      "date": "2026-05-04",
+      "projected_balance": 2375306.12
+    },
+    {
+      "date": "2026-05-05",
+      "projected_balance": 2382506.98
+    },
+    {
+      "date": "2026-05-06",
+      "projected_balance": 2389707.83
+    },
+    {
+      "date": "2026-05-07",
+      "projected_balance": 2396908.69
+    },
+    {
+      "date": "2026-05-08",
+      "projected_balance": 2404109.54
+    },
+    {
+      "date": "2026-05-09",
+      "projected_balance": 2411310.4
+    },
+    {
+      "date": "2026-05-10",
+      "projected_balance": 2418511.25
+    },
+    {
+      "date": "2026-05-11",
+      "projected_balance": 2425712.11
+    },
+    {
+      "date": "2026-05-12",
+      "projected_balance": 2432912.96
+    },
+    {
+      "date": "2026-05-13",
+      "projected_balance": 2440113.82
+    },
+    {
+      "date": "2026-05-14",
+      "projected_balance": 2447314.67
+    },
+    {
+      "date": "2026-05-15",
+      "projected_balance": 2454515.53
+    },
+    {
+      "date": "2026-05-16",
+      "projected_balance": 2461716.38
+    },
+    {
+      "date": "2026-05-17",
+      "projected_balance": 2468917.24
+    },
+    {
+      "date": "2026-05-18",
+      "projected_balance": 2476118.1
+    },
+    {
+      "date": "2026-05-19",
+      "projected_balance": 2483318.95
+    },
+    {
+      "date": "2026-05-20",
+      "projected_balance": 2490519.81
+    },
+    {
+      "date": "2026-05-21",
+      "projected_balance": 2497720.66
+    },
+    {
+      "date": "2026-05-22",
+      "projected_balance": 2504921.52
+    },
+    {
+      "date": "2026-05-23",
+      "projected_balance": 2512122.37
+    },
+    {
+      "date": "2026-05-24",
+      "projected_balance": 2519323.23
+    },
+    {
+      "date": "2026-05-25",
+      "projected_balance": 2526524.08
+    },
+    {
+      "date": "2026-05-26",
+      "projected_balance": 2533724.94
+    },
+    {
+      "date": "2026-05-27",
+      "projected_balance": 2540925.79
+    },
+    {
+      "date": "2026-05-28",
+      "projected_balance": 2548126.65
+    },
+    {
+      "date": "2026-05-29",
+      "projected_balance": 2555327.5
+    },
+    {
+      "date": "2026-05-30",
+      "projected_balance": 2562528.36
+    },
+    {
+      "date": "2026-05-31",
+      "projected_balance": 2569729.21
+    },
+    {
+      "date": "2026-06-01",
+      "projected_balance": 2576930.07
+    },
+    {
+      "date": "2026-06-02",
+      "projected_balance": 2584130.92
+    },
+    {
+      "date": "2026-06-03",
+      "projected_balance": 2591331.78
+    },
+    {
+      "date": "2026-06-04",
+      "projected_balance": 2598532.63
+    },
+    {
+      "date": "2026-06-05",
+      "projected_balance": 2605733.49
+    },
+    {
+      "date": "2026-06-06",
+      "projected_balance": 2612934.34
+    },
+    {
+      "date": "2026-06-07",
+      "projected_balance": 2620135.2
+    },
+    {
+      "date": "2026-06-08",
+      "projected_balance": 2627336.06
+    },
+    {
+      "date": "2026-06-09",
+      "projected_balance": 2634536.91
+    },
+    {
+      "date": "2026-06-10",
+      "projected_balance": 2641737.77
+    },
+    {
+      "date": "2026-06-11",
+      "projected_balance": 2648938.62
+    },
+    {
+      "date": "2026-06-12",
+      "projected_balance": 2656139.48
+    },
+    {
+      "date": "2026-06-13",
+      "projected_balance": 2663340.33
+    },
+    {
+      "date": "2026-06-14",
+      "projected_balance": 2670541.19
+    },
+    {
+      "date": "2026-06-15",
+      "projected_balance": 2677742.04
+    },
+    {
+      "date": "2026-06-16",
+      "projected_balance": 2684942.9
+    },
+    {
+      "date": "2026-06-17",
+      "projected_balance": 2692143.75
+    },
+    {
+      "date": "2026-06-18",
+      "projected_balance": 2699344.61
+    },
+    {
+      "date": "2026-06-19",
+      "projected_balance": 2706545.46
+    },
+    {
+      "date": "2026-06-20",
+      "projected_balance": 2713746.32
+    },
+    {
+      "date": "2026-06-21",
+      "projected_balance": 2720947.17
+    },
+    {
+      "date": "2026-06-22",
+      "projected_balance": 2728148.03
+    },
+    {
+      "date": "2026-06-23",
+      "projected_balance": 2735348.88
+    },
+    {
+      "date": "2026-06-24",
+      "projected_balance": 2742549.74
+    },
+    {
+      "date": "2026-06-25",
+      "projected_balance": 2749750.59
+    },
+    {
+      "date": "2026-06-26",
+      "projected_balance": 2756951.45
+    },
+    {
+      "date": "2026-06-27",
+      "projected_balance": 2764152.3
+    },
+    {
+      "date": "2026-06-28",
+      "projected_balance": 2771353.16
+    },
+    {
+      "date": "2026-06-29",
+      "projected_balance": 2778554.01
+    },
+    {
+      "date": "2026-06-30",
+      "projected_balance": 2785754.87
+    }
+  ],
+  "kpis": {
+    "current_balance": 2137677.9,
+    "avg_monthly_inflow": 393197.91,
+    "avg_monthly_outflow": 128879.63,
+    "avg_monthly_net": 216025.66,
+    "runway_months": 99,
+    "burn_rate": 0,
+    "data_sources": 5,
+    "transactions_total": 423,
+    "last_reconciled": "2026-04-01T06:00:00Z",
+    "reconciliation_errors": 0
+  },
+  "sources": {
+    "erp_revenue": {
+      "label": "ERP \u2014 Invoices",
+      "color": "#00d4aa"
+    },
+    "bank_ops": {
+      "label": "Bank \u2014 Operations",
+      "color": "#4C9EFF"
+    },
+    "stripe": {
+      "label": "Stripe \u2014 Payments",
+      "color": "#7B5EA7"
+    },
+    "bank_payroll": {
+      "label": "Bank \u2014 Payroll",
+      "color": "#FF9900"
+    },
+    "erp_cogs": {
+      "label": "ERP \u2014 COGS",
+      "color": "#FF4444"
+    }
+  }
+}

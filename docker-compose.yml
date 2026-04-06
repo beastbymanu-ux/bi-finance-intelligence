@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  finance-pipeline-demo:
+    build: ./dashboard
+    container_name: finance-pipeline
+    ports:
+      - "8506:8506"
+    restart: always
