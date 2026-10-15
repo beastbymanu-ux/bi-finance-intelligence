@@ -1,8 +1,8 @@
 # Enterprise Financial Intelligence: Automated Cash Flow Pipeline
 
-> **Private automated financial reporting** — SQLAlchemy · FastAPI · Streamlit · Docker · On-premise
+> Own project by Manu (OpenClaw Labs), built and tested with demo data. Not a client deployment.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-openclawlabs--finance.duckdns.org-00d4aa?style=for-the-badge)](https://openclawlabs-finance.duckdns.org)
+> **Private automated financial reporting** — SQLAlchemy · FastAPI · Streamlit · Docker · On-premise
 
 ## Problem
 
@@ -10,21 +10,12 @@ Finance teams wasting **20+ hrs/month** reconciling data manually across ERP, ba
 
 ## Solution
 
-Private financial intelligence pipeline deployed on a Vultr VPS:
+Private financial intelligence pipeline designed to run on a private VPS:
 
 - **SQLAlchemy** ingests and reconciles multi-source data (ERP, banks, Stripe) into a unified SQLite store
 - **FastAPI** serves clean metrics via a REST layer
 - **Streamlit dashboard** shows real-time cash flow forecast, burn rate, and runway
 - **Automated reconciliation** runs on schedule — zero manual intervention
-
-## Results (STAR)
-
-| Metric | Before | After |
-|--------|--------|-------|
-| Manual reconciliation time | 20 hrs/month | 0 hrs/month |
-| Data accuracy | Variable | 100% (audit trail) |
-| Reconciliation errors | ~12/month | 0 |
-| Cloud exposure | Yes | Eliminated |
 
 ## Architecture
 
@@ -32,7 +23,6 @@ Private financial intelligence pipeline deployed on a Vultr VPS:
 ERP · Bank Feed · Stripe API · Payment Processors
 → SQLAlchemy ORM → SQLite (on-premise)
 → FastAPI REST Layer → Streamlit Dashboard
-→ Nginx + SSL (DuckDNS)
 ```
 
 ## Stack
@@ -43,13 +33,12 @@ ERP · Bank Feed · Stripe API · Payment Processors
 | Database | SQLite (on-premise) |
 | API Layer | FastAPI |
 | Dashboard | Streamlit + Plotly |
-| Infrastructure | Docker · Nginx · Vultr VPS |
+| Infrastructure | Docker · Nginx · private VPS |
 
-## 3 Golden Pillars
+## Design principles
 
-1. **Money** — 20 hrs/month reclaimed. 100% accuracy eliminates costly errors.
-2. **Ownership** — All financial data stays on the client's own server. Zero cloud. Full GDPR compliance.
-3. **Scalability** — Dockerized pipeline. Add new data sources (Xero, QuickBooks) without re-architecture.
+1. **Ownership** — All financial data stays on the your own server. Zero cloud. Full GDPR compliance.
+2. **Scalability** — Dockerized pipeline. Add new data sources (Xero, QuickBooks) without re-architecture.
 
 ## Quick Start
 
@@ -59,10 +48,3 @@ cd bi-finance-intelligence
 docker-compose up -d
 # Visit http://localhost:8506
 ```
-
-## Live Demo
-
-**[https://openclawlabs-finance.duckdns.org](https://openclawlabs-finance.duckdns.org)**
-
----
-*Built by [OpenClaw Labs](https://openclawlabs-ai.duckdns.org) — Senior AI/Data Engineering*
